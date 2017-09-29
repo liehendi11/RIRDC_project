@@ -1,0 +1,698 @@
+finance, approved deposit fund
+finance, accumulation fund
+finance, all ordinaries index
+finance, all ordinaries accumulation index
+finance, amortisation
+finance, angel investor
+finance, annuity
+finance, asset allocation
+finance, asset class
+finance, asset sector
+finance, asset mix
+finance, average irr
+finance, awe
+finance, awote
+finance, balanced fund
+finance, basis point
+finance, bear market
+finance, benchmark
+finance, beta
+finance, bond
+finance, book to market ratio
+finance, book value
+finance, bull market
+finance, burn rate
+finance, buy and build
+finance, buy ins
+finance, buy outs 
+finance, call
+finance, call option
+finance, called capital
+finance, capital
+finance, capital asset pricing model
+finance, capital growth fund
+finance, capital guaranteed fund
+finance, capital stable option
+finance, capital structure
+finance, carried interest
+finance, cash-on-cash
+finance, claw back
+finance, closed-end fund
+finance, commitment
+finance, complying fund
+finance, convertible notes
+finance, corporate bonds
+finance, cost basis
+finance, coupon rate
+finance, cpi
+finance, credit crunch
+finance, credit downgrade or upgrade
+finance, credit rating
+finance, debt security
+finance, deal flow
+finance, dealers licence
+finance, default
+finance, deferred annuity
+finance, derivative
+finance, development capital
+finance, dilution
+finance, direct investment
+finance, distressed debt
+finance, discretionary option
+finance, diversification
+finance, diversified option
+finance, dividend
+finance, draw downs
+finance, due diligence
+finance, duration
+finance, earning rate
+finance, early stage financing
+finance, ebitda
+finance, eligible termination payment
+finance, emerging markets
+finance, enterprise value
+finance, enterprise multiple
+finance, equities
+finance, equity carve-out
+finance, equity kicker
+finance, equity ownership structure
+finance, escrow
+finance, expansion capital
+finance, fair value
+finance, financial engineering
+finance, financial leverage
+finance, fixed interest
+finance, float
+finance, floating rate
+finance, floating rate note
+finance, fragmented industry 
+finance, fund-of-funds 
+finance, futures
+finance, fx
+finance, forex
+finance, g3
+finance, g7
+finance, gatekeepers
+finance, gdp
+finance, gnp
+finance, gross irr
+finance, growth investments
+finance, hedging
+finance, hurdle rate
+finance, hybrid security
+finance, indexing
+finance, industry superannuation
+finance, inflation
+finance, inflation indexed securities
+finance, infrastructure
+finance, initial public offer
+finance, interest bearing investments
+finance, internal rate of return
+finance, investment grade
+finance, investment linked fund
+finance, itaa
+finance, j-curve
+finance, kangaroo bond 
+finance, later stage financing
+finance, leveraged build-ups
+finance, leveraged buy-out
+finance, llc
+finance, limited partnership
+finance, listed asset
+finance, listed debt 
+finance, liquidity
+finance, liquidity premium
+finance, liquidity support vehicle 
+finance, listed property
+finance, lock-up
+finance, long term investment
+finance, macro
+finance, managed fund
+finance, management buy-out
+finance, management buy-in
+finance, master trust
+finance, medium term investment
+finance, mezzanine finance
+finance, msci accumulation index
+finance, mtf
+finance, net asset value
+finance, net irr
+finance, net present value
+finance, nominal interest rate
+finance, non-contributory superannuation
+finance, non complying fund
+finance, oecd
+finance, option
+finance, portfolio
+finance, payback period
+finance, payout ratio
+finance, pipes
+finance, pooled superannuation trust
+finance, preferred stock
+finance, preserved benefit
+finance, private equity
+finance, private finance initiative
+finance, private placement
+finance, privatisation
+finance, proper authority
+finance, property
+finance, public to private
+finance, purchase multiple
+finance, put option
+finance, quant
+finance, quartile
+finance, recapitalisation
+finance, rbl
+finance, real return
+finance, resource
+finance, return multiple
+finance, risk 
+finance, running yield
+finance, secured debt
+finance, securities
+finance, securitisation
+finance, seed capital 
+finance, senior debt
+finance, shadow credit rating 
+finance, shares
+finance, short term investment
+finance, smp
+finance, socially responsible investment
+finance, superannuation guarantee charge
+finance, sis
+finance, specialised option
+finance, split funding
+finance, start-up capital
+finance, subordinated debt
+finance, subordinated loan
+finance, superannuation
+finance, superannuation trust
+finance, swap 
+finance, swap rates 
+finance, swap curve 
+finance, swb index
+finance, strategic range
+finance, syndicate
+finance, terminal value
+finance, trust
+finance, trust deed
+finance, trustee
+finance, trustees discretion
+finance, underwriter
+finance, unit price
+finance, unit linked investment
+finance, under outperformance
+finance, under overweight
+finance, unlisted asset
+finance, unlisted debt 
+finance, vested benefit
+finance, volatility
+finance, venture capital
+finance, vintage year
+finance, wdr 90 day bank bill index
+finance, wdr composite bond index
+finance, wdr inflation linked bond index
+finance, weighting
+finance, wholesale fund
+finance, withholding tax
+finance, write downs
+finance, yield
+mining, abutment 
+mining, acid deposition or acid rain 
+mining, acid mine water 
+mining, active workings 
+mining, adit 
+mining, advance 
+mining, agglomeration 
+mining, air split 
+mining, airway 
+mining, anemometer 
+mining, angle of dip 
+mining, angle of draw 
+mining, angle of repose 
+mining, anthracite coal 
+mining, anticline 
+mining, aquifer 
+mining, arching 
+mining, area
+mining, auger 
+mining, auxiliary operations 
+mining, auxiliary ventilation 
+mining, azimuth 
+mining, return to top of page
+mining, backfill 
+mining, barren 
+mining, barricading 
+mining, barrier 
+mining, beam 
+mining, beam building 
+mining, bearing 
+mining, bearing plate 
+mining, belt conveyor 
+mining, belt idler 
+mining, belt take-up 
+mining, bench 
+mining, beneficiation 
+mining, berm 
+mining, binder 
+mining, bituminous coal 
+mining, black damp 
+mining, blasting agent 
+mining, blasting cap 
+mining, blasting circuit 
+mining, bleeder or bleeder entries 
+mining, boiler
+mining, bolt torque 
+mining, borehole 
+mining, bottom 
+mining, boss 
+mining, box-type magazine 
+mining, brattice or brattice cloth 
+mining, break line 
+mining, breaker 
+mining, breakthrough 
+mining, bridge carrier 
+mining, bridge conveyor 
+mining, brow 
+mining, brushing 
+mining, btu 
+mining, bug dust 
+mining, bump
+mining, butt cleat 
+mining, butt entry 
+mining, cage 
+mining, calorific value 
+mining, cannel coal 
+mining, canopy 
+mining, cap block 
+mining, car-dump 
+mining, carbide bit 
+mining, carbon dioxide 
+mining, cast 
+mining, certified 
+mining, chain conveyor 
+mining, chain pillar 
+mining, charcoal 
+mining, check curtain 
+mining, chlorofluorocarbons
+mining, chock 
+mining, clay vein 
+mining, cleat 
+mining, clean air act amendments of 1990 
+mining, clean coal technologies 
+mining, coal 
+mining, coal desulphurisation 
+mining, coal dust 
+mining, coal gasification 
+mining, coal mine 
+mining, coal reserves 
+mining, coal washing 
+mining, coke 
+mining, collar 
+mining, colliery 
+mining, column flotation 
+mining, combustion chamber 
+mining, comminution 
+mining, competent rock 
+mining, contact 
+mining, continuous miner 
+mining, contour 
+mining, conventional mining 
+mining, conveyor 
+mining, core sample 
+mining, cover 
+mining, creep 
+mining, crib 
+mining, cribbing 
+mining, crop coal 
+mining, crossbar 
+mining, crosscut 
+mining, cross entry 
+mining, crusher 
+mining, cutter
+mining, cutting machine 
+mining, cycle mining 
+mining, demonstrated reserves 
+mining, deposit 
+mining, depth 
+mining, detectors 
+mining, detonator 
+mining, development mining 
+mining, diffusion 
+mining, diffuser fan 
+mining, dilute 
+mining, dilution 
+mining, dip 
+mining, dragline 
+mining, drainage 
+mining, draw slate 
+mining, drift 
+mining, drift mine 
+mining, drill 
+mining, drilling 
+mining, dummy 
+mining, dump 
+mining, electrical grounding 
+mining, electrostatic precipitator 
+mining, energy 
+mining, energy mix 
+mining, entry 
+mining, evaluation 
+mining, exploration 
+mining, explosive 
+mining, extraction 
+mining, face
+mining, face cleat 
+mining, face conveyor 
+mining, factor of safety 
+mining, fall 
+mining, fan auxiliary 
+mining, fan booster 
+mining, fan signal 
+mining, fault 
+mining, fault zone 
+mining, feeder 
+mining, fill 
+mining, fire damp 
+mining, fissure 
+mining, fixed carbon 
+mining, flat-lying 
+mining, flight 
+mining, float dust 
+mining, floor 
+mining, flue gas desulfurization 
+mining, fluidized bed combustion 
+mining, fly ash 
+mining, formation 
+mining, fossil fuel 
+mining, fracture 
+mining, friable 
+mining, fuse 
+mining, gallery 
+mining, gasification 
+mining, gathering conveyor
+mining, gathering belt 
+mining, geologist 
+mining, geotechnical engineering 
+mining, gob 
+mining, global climate change 
+mining, grain 
+mining, greenhouse effect 
+mining, grizzly 
+mining, ground control 
+mining, ground pressure 
+mining, gunite 
+mining, haulage 
+mining, haulageway 
+mining, headframe 
+mining, heading 
+mining, head section 
+mining, heaving 
+mining, highwall 
+mining, highwall miner 
+mining, hogsback 
+mining, hoist 
+mining, hoisting 
+mining, hopper 
+mining, horizon 
+mining, horseback 
+mining, hydraulic 
+mining, hydrocarbon 
+mining, inby 
+mining, incline 
+mining, incompetent 
+mining, indicated coal resources 
+mining, inferred coal resources 
+mining, in situ 
+mining, intake 
+mining, intermediate section 
+mining, immediate roof 
+mining, isopach 
+mining, jackleg 
+mining, jackrock 
+mining, job safety analysis
+mining, joint 
+mining, kettle bottom 
+mining, kerf 
+mining, lamp 
+mining, layout 
+mining, lift 
+mining, lignite 
+mining, liquefaction 
+mining, lithology 
+mining, load 
+mining, loading machine 
+mining, loading pocket 
+mining, longwall mining 
+mining, loose coal 
+mining, low sulphur coal 
+mining, low voltage 
+mining, main entry 
+mining, main fan 
+mining, manhole 
+mining, man trip 
+mining, manway 
+mining, measured coal resources 
+mining, meridian 
+mining, metallurgical coal 
+mining, methane 
+mining, methane monitor 
+mining, mine development 
+mining, mine mouth electric plant 
+mining, miner 
+mining, mineral 
+mining, mining engineer 
+mining, misfire 
+mining, msha 
+mining, mud cap 
+mining, natural ventilation 
+mining, nip 
+mining, nitrogen oxides
+mining, open end pillaring 
+mining, outby
+mining, outbye 
+mining, outcrop 
+mining, overburden
+mining, overcast
+mining, ozone 
+mining, o3
+mining, panel 
+mining, panic bar 
+mining, parting 
+mining, peat
+mining, percentage extraction 
+mining, percussion drill 
+mining, permissible 
+mining, permit 
+mining, piggy-back 
+mining, pillar 
+mining, pillar robbing 
+mining, pinch 
+mining, pinning 
+mining, pit ponies 
+mining, pitch 
+mining, pneumoconiosis 
+mining, portal 
+mining, portal bus 
+mining, preparation plant 
+mining, primary roof 
+mining, primer 
+mining, booster
+mining, prop 
+mining, proximate analysis 
+mining, pyrite 
+mining, raise 
+mining, ramp 
+mining, ranks of coal 
+mining, reclamation 
+mining, recovery 
+mining, red dog 
+mining, regulator 
+mining, reserve 
+mining, resin bolting 
+mining, resources 
+mining, respirable dust 
+mining, respirable dust sample 
+mining, retreat mining 
+mining, return 
+mining, return idler 
+mining, rib 
+mining, rider 
+mining, ripper 
+mining, rob 
+mining, robbed out area 
+mining, roll 
+mining, roll protection 
+mining, roof 
+mining, roof bolt
+mining, roof fall 
+mining, roof jack 
+mining, roof sag 
+mining, roof stress 
+mining, roof support 
+mining, roof trusses 
+mining, room and pillar mining 
+mining, room neck 
+mining, royalty 
+mining, rubbing surface 
+mining, run-of-mine 
+mining, safety fuse 
+mining, safety lamp 
+mining, sampling 
+mining, sandstone 
+mining, scaling 
+mining, scoop 
+mining, scrubber 
+mining, seam 
+mining, secondary roof 
+mining, section 
+mining, selective mining 
+mining, self-contained breathing apparatus 
+mining, self-rescuer 
+mining, severance 
+mining, shaft 
+mining, shaft mine 
+mining, shale 
+mining, shearer 
+mining, shift 
+mining, shortwall 
+mining, shuttle car 
+mining, sinking 
+mining, skid 
+mining, skip 
+mining, slack 
+mining, slag 
+mining, slate 
+mining, slate bar 
+mining, slickenside 
+mining, slip 
+mining, slope 
+mining, slope mine 
+mining, sloughing 
+mining, solid 
+mining, sounding 
+mining, spad 
+mining, span 
+mining, specific gravity 
+mining, split 
+mining, square-set system 
+mining, squeeze 
+mining, steeply inclined 
+mining, stemming 
+mining, stope 
+mining, strike 
+mining, stripping ratio 
+mining, stull 
+mining, stump 
+mining, sub-bituminous coal 
+mining, subsidence 
+mining, sump 
+mining, sumping 
+mining, support 
+mining, surface mine 
+mining, suspension 
+mining, syncline 
+mining, tailgate 
+mining, tailpiece 
+mining, tail section 
+mining, tectonic forces 
+mining, tension 
+mining, thermal coal 
+mining, through-steel 
+mining, timber 
+mining, timbering 
+mining, timber set 
+mining, tipple 
+mining, torque wrench 
+mining, tractor 
+mining, tram 
+mining, transfer 
+mining, transfer point 
+mining, trip 
+mining, troughing idlers 
+mining, tunnel 
+mining, ultimate analysis 
+mining, undercut 
+mining, underground mine 
+mining, underground station 
+mining, unit train 
+mining, universal coal cutter 
+mining, upcast shaft 
+mining, valuation 
+mining, velocity 
+mining, ventilation 
+mining, violation 
+mining, virgin 
+mining, volatile matter 
+mining, waste 
+mining, water gauge
+mining, wedge 
+mining, weight 
+mining, white damp 
+mining, winning 
+mining, winze 
+mining, wire rope 
+mining, working 
+mining, working face 
+mining, working place 
+mining, workings 
+agriculture, acre
+agriculture, agriculture
+agriculture, agronomy
+agriculture, alfalfa
+agriculture, animal unit
+agriculture, annual
+agriculture, apiary
+agriculture, artificial insemination
+agriculture, auger
+agriculture, avian
+agriculture, balance ration
+agriculture, bloating
+agriculture, boar
+agriculture, breed
+agriculture, english origin
+agriculture, european origin
+agriculture, asian origin
+agriculture, broadcasting
+agriculture, broiler
+agriculture, bushel
+agriculture, calf
+agriculture, cash crop
+agriculture, certified seed
+agriculture, complete fertilizer
+agriculture, compost
+agriculture, confinement
+agriculture, controlled lighting
+agriculture, cooperative
+agriculture, crop rotation
+agriculture, cwt
+agriculture, double crop
+agriculture, drainage
+agriculture, drilling
+agriculture, single operation
+agriculture, dry cow
+agriculture, erosion
+agriculture, feed lots
+agriculture, feed lot
+agriculture, fertilization
+agriculture, ffa
+agriculture, agriculture
+agriculture, 4-h
+agriculture, field capacity
+agriculture, forage
+agriculture, gelding
+agriculture, goats
+agriculture, angora breed
+agriculture, dairy breeds
+agriculture, buck
+agriculture, chevon
+agriculture, doe
+agriculture, cuts
+agriculture, yg 3
+agriculture, gravitational water
+agriculture, by plants
+agriculture, green manure
+agriculture, heifer
+agriculture, herbivore
+agriculture, horizontal integration
+agriculture, humus 
